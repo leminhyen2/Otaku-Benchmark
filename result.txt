@@ -1,22 +1,26 @@
-Visual Novel:
-Sugoi Translator Offline V2.0: 11.80
-Sugoi Translator Offline V1.5: 11.22
-DeepL (04/11/2021): 10.48
-Sugoi Translator Offline V1.0: 10.42
-Papago (04/11/2021): 8.18
-Google (04/11/2021): 7.08
+Visual Novel: (Harmonia no H scenes)
+19.08: DeepL
+18.75: Sugoi Translator Offline V2.0
+18.29: Sugoi Translator Offline V1.0
+18.01: Papago
+17.94: Google
+
+Visual Novel: (9 nine Ep 1 with H scenes)
+11.80: Sugoi Translator Offline V2.0
+10.48: DeepL 
+10.42: Sugoi Translator Offline V1.0
+8.18: Papago 
+7.08: Google 
 
 Manga:
-DeepL: 20.59
-Sugoi Translator Offline V2.0: 19.66
-Sugoi Translator Offline V1.0: 17.16
-Sugoi Translator Offline V1.5: 13.44
+20.59: DeepL
+19.66: Sugoi Translator Offline V2.0
+17.16: Sugoi Translator Offline V1.0
 
 Light Novel:
-DeepL: 13.72
-Sugoi Translator Offline v2.0: 12.27
-Sugoi Translator Offline V1.5: 11.87
-Sugoi Translator Offline V1.0: 11.38
+13.72: DeepL
+12.27: Sugoi Translator Offline v2.0
+11.38: Sugoi Translator Offline V1.0
 
 
 
