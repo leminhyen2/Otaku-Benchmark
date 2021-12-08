@@ -1,0 +1,23 @@
+Visual Novel:
+Sugoi Translator Offline V2.0: 11.80
+Sugoi Translator Offline V1.5: 11.22
+DeepL (04/11/2021): 10.48
+Sugoi Translator Offline V1.0: 10.42
+Papago (04/11/2021): 8.18
+Google (04/11/2021): 7.08
+
+Manga:
+DeepL: 20.59
+Sugoi Translator Offline V2.0: 19.66
+Sugoi Translator Offline V1.0: 17.16
+Sugoi Translator Offline V1.5: 13.44
+
+Light Novel:
+DeepL: 13.72
+Sugoi Translator Offline v2.0: 12.27
+Sugoi Translator Offline V1.5: 11.87
+Sugoi Translator Offline V1.0: 11.38
+
+
+
+
