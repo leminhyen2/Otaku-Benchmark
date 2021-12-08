@@ -10,15 +10,19 @@ After you translate that using your model, here are the steps to benchmark your 
 
 **FOR BENCHMARKING:**
 1st, install SacreBLEU (Python>=3.6 only):
+
 `pip install sacrebleu
 `
 2nd, clone this repo then navigate to the domain folder of your choice, like visual novel for example.
+
 `cd '.\Visual Novel\' `
 
 3rd, use the command line in that folder and run calculateBleu.py
+
 `python3  calculateBleu.py NameOfHumanTranslationFile.txt NameOfYourModelTranslationFile.txt`
 
 Example:
+
 `python3 calculateBleu.py humanTranslation.txt SugoiTranslatorOfflineV20.txt`
 
 
