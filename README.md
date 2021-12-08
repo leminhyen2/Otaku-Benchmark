@@ -11,8 +11,8 @@ After you translate that using your model, here are the steps to benchmark your 
 **FOR BENCHMARKING:**
 1st, install SacreBLEU (Python>=3.6 only):
 
-`pip install sacrebleu
-`
+`pip install sacrebleu`
+
 2nd, clone this repo then navigate to the domain folder of your choice, like visual novel for example.
 
 `cd '.\Visual Novel\' `
