@@ -21,8 +21,8 @@ Manga:
 
 Light Novel:
 13.72: DeepL
+12.56: Google
 12.27: Sugoi Translator Offline v2.0
-11.77: Google
 11.38: Sugoi Translator Offline V1.0
 11.06: Papago
 
