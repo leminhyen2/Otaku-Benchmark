@@ -15,12 +15,16 @@ Visual Novel: (9 nine Ep 1 with H scenes)
 Manga:
 20.59: DeepL
 19.66: Sugoi Translator Offline V2.0
+18.36: Papago
 17.16: Sugoi Translator Offline V1.0
+16.07: Google
 
 Light Novel:
 13.72: DeepL
 12.27: Sugoi Translator Offline v2.0
+11.77: Google
 11.38: Sugoi Translator Offline V1.0
+10.07: Papago
 
 
 
