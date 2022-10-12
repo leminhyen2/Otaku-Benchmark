@@ -21,7 +21,7 @@ Manga: (Open Mantra Dataset: 5 different manga)
 Light Novel: (Itachi Shinden)
 14.42: Sugoi Translator Offline V3.0
 15.00: DeepL (10/2021)
-14.29: DeepL (10/2021)
+14.29: DeepL (10/2022)
 12.56: Google (10/2021)
 12.27: Sugoi Translator Offline v2.0
 11.38: Sugoi Translator Offline V1.0
