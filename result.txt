@@ -2,8 +2,8 @@ Japanese to English:
 
 Visual Novel: (Harmonia without H scenes)
 19.43: Sugoi Translator Offline V3.0
-19.08: DeepL (10/2021)
-18.47: DeepL (10/2022)
+19.08: DeepL 2021
+18.47: DeepL 2022
 18.75: Sugoi Translator Offline V2.0
 18.29: Sugoi Translator Offline V1.0
 18.01: Papago (10/2021)
@@ -11,8 +11,8 @@ Visual Novel: (Harmonia without H scenes)
 
 Manga: (Open Mantra Dataset: 5 different manga)
 20.74: Sugoi Translator Offline V3.0
-20.59: DeepL (10/2021)
-19.53: DeepL (10/2022)
+20.59: DeepL 2021
+19.53: DeepL 2022
 19.66: Sugoi Translator Offline V2.0
 18.36: Papago (10/2021)
 17.16: Sugoi Translator Offline V1.0
@@ -20,8 +20,8 @@ Manga: (Open Mantra Dataset: 5 different manga)
 
 Light Novel: (Itachi Shinden)
 14.42: Sugoi Translator Offline V3.0
-15.00: DeepL (10/2021)
-14.29: DeepL (10/2022)
+15.00: DeepL 2022
+14.29: DeepL 2021
 12.56: Google (10/2021)
 12.27: Sugoi Translator Offline v2.0
 11.38: Sugoi Translator Offline V1.0
